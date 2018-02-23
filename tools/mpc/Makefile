@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=mpc
 PKG_VERSION:=1.0.1
 
-PKG_SOURCE_URL:=http://www.multiprecision.org/mpc/download/
+PKG_SOURCE_URL:=http://mirror.opf.slu.cz/openwrt/sources/
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_MD5SUM:=b32a2e1a3daa392372fbd586d1ed3679
 
