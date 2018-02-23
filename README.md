@@ -40,7 +40,7 @@ There are 3 prebuild images with different features but the recommended one is *
 
 ## Build
 
-    git clone git@github.com:bogdanr/HLK-RM04.git
+    git clone https://github.com/TommyChap/HLK-RM04.git
     make menuconfig
     make
 
